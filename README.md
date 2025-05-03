@@ -1,6 +1,18 @@
-# r3_testset
-42 Year2 samples with complete and stable sequencing data.  Both trio and hic data available for all 42 samples.  
+# R3 Test Set
 
-This is meant to be a test set for use in development of the assembly recipe for release 3.  They key difference between this set and R2 is that this sample includes both R9 and R10 ONT data.  
+## Overview
+## Overview
+The R3 Test Set comprises **42 HPRC (Year 2) samples** with comprehensive, high-quality sequencing data. Each sample includes both trio and Hi-C data.  
+**This dataset is finalized, complete, and will remain unchanged in Release 3.**
 
-https://docs.google.com/spreadsheets/d/1H_JePzde0bc_Aq88G8K7Ew6kwfqwlSlE9P8gW7UyFoE/edit?usp=sharing
+## Purpose
+This collection is intended to support development of the Release 3 assembly protocol.  
+Key distinction from the R2 dataset: **includes ONT data generated on both R9 and R10 flow cells.**
+
+## Data Access
+- **Google Sheet** (for interactive browsing/editing):  
+  https://docs.google.com/spreadsheets/d/1H_JePzde0bc_Aq88G8K7Ew6kwfqwlSlE9P8gW7UyFoE/edit?usp=sharing
+
+## Documentation
+For detailed information on table formats and usage, please refer to the R2 repository:  
+https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables

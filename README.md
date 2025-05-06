@@ -14,11 +14,11 @@
 This collection supports development and testing of assembly protocols for Release 3.
 
 ## Data Access
-- **Google Sheet** (interactive browsing):  
+**Google Sheet** (interactive browsing):  
 https://docs.google.com/spreadsheets/d/1H_JePzde0bc_Aq88G8K7Ew6kwfqwlSlE9P8gW7UyFoE/edit?usp=sharing  
 
 ## Documentation
-For detailed table formats and usage, see the R2 repo:  
+For additional documentation on data types and format see the R2 data repo:  
 https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables
 
 ## Contact

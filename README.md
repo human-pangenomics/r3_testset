@@ -6,6 +6,7 @@
 - ONT data on both **R9** and **R10** flow cells, provided in separate index files:  
   - `R3_data_index_testset-ont_r9.csv`  
   - `R3_data_index_testset-ont_r10.csv`  
+  -  **Please Note: only Y1-Y3 samples will have double ONT coverage (R9+R10).  Y4-Y5 samples will only have R10 data, so half the overall coverage of the Y1-Y3 samples.**
 - DeepConsensus (DC) FastQs lack methylation calls; redundant HiFi BAMs are included for methylation analysis  
 - R2 assembly locations included for reference  
 - **Finalized dataset**: complete and will remain unchanged in Release 3  
